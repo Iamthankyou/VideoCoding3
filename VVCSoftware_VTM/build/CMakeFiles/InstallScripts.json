@@ -1,0 +1,22 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/LQ Duy/Documents/Project/VVCSoftware_VTM/build/cmake_install.cmake",
+		"C:/Users/LQ Duy/Documents/Project/VVCSoftware_VTM/build/source/Lib/CommonLib/cmake_install.cmake",
+		"C:/Users/LQ Duy/Documents/Project/VVCSoftware_VTM/build/source/Lib/CommonAnalyserLib/cmake_install.cmake",
+		"C:/Users/LQ Duy/Documents/Project/VVCSoftware_VTM/build/source/Lib/DecoderAnalyserLib/cmake_install.cmake",
+		"C:/Users/LQ Duy/Documents/Project/VVCSoftware_VTM/build/source/Lib/DecoderLib/cmake_install.cmake",
+		"C:/Users/LQ Duy/Documents/Project/VVCSoftware_VTM/build/source/Lib/EncoderLib/cmake_install.cmake",
+		"C:/Users/LQ Duy/Documents/Project/VVCSoftware_VTM/build/source/Lib/Utilities/cmake_install.cmake",
+		"C:/Users/LQ Duy/Documents/Project/VVCSoftware_VTM/build/source/App/DecoderAnalyserApp/cmake_install.cmake",
+		"C:/Users/LQ Duy/Documents/Project/VVCSoftware_VTM/build/source/App/DecoderApp/cmake_install.cmake",
+		"C:/Users/LQ Duy/Documents/Project/VVCSoftware_VTM/build/source/App/EncoderApp/cmake_install.cmake",
+		"C:/Users/LQ Duy/Documents/Project/VVCSoftware_VTM/build/source/App/SEIRemovalApp/cmake_install.cmake",
+		"C:/Users/LQ Duy/Documents/Project/VVCSoftware_VTM/build/source/App/SEIFilmGrainApp/cmake_install.cmake",
+		"C:/Users/LQ Duy/Documents/Project/VVCSoftware_VTM/build/source/App/Parcat/cmake_install.cmake",
+		"C:/Users/LQ Duy/Documents/Project/VVCSoftware_VTM/build/source/App/StreamMergeApp/cmake_install.cmake",
+		"C:/Users/LQ Duy/Documents/Project/VVCSoftware_VTM/build/source/App/BitstreamExtractorApp/cmake_install.cmake",
+		"C:/Users/LQ Duy/Documents/Project/VVCSoftware_VTM/build/source/App/SubpicMergeApp/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

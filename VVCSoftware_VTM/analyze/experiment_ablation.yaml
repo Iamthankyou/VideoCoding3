@@ -1,0 +1,57 @@
+vtm_bin: 'C:/Users/LQ Duy/Documents/Project/VideoCoding/VVCSoftware_VTM/analyze/EncoderApp.exe'
+base_cfg: 'C:/Users/LQ Duy/Documents/Project/VideoCoding/VVCSoftware_VTM/cfg/encoder_randomaccess_vtm.cfg'
+output_dir: ./runs_out_ablation
+qps: [37, 32, 27, 22]
+fixed_args: []   # RA structure lấy từ base_cfg
+
+sequences:
+  # ===== Class D =====
+  - { name: BasketballPass_416x240_50, yuv: 'C:\Users\LQ Duy\Documents\Project\VideoCoding\Setup\Sequences\Class D\BasketballPass_416x240_50.yuv', width: 416, height: 240, fps: 50, frames: 33 }
+  - { name: BlowingBubbles_416x240_50, yuv: 'C:\Users\LQ Duy\Documents\Project\VideoCoding\Setup\Sequences\Class D\BlowingBubbles_416x240_50.yuv', width: 416, height: 240, fps: 50, frames: 33 }
+
+  # ===== Class C =====
+  - { name: BasketballDrill_832x480_50, yuv: 'C:\Users\LQ Duy\Documents\Project\VideoCoding\Setup\Sequences\Class C\BasketballDrill_832x480_50.yuv', width: 832, height: 480, fps: 50, frames: 33 }
+
+  # ===== Class B =====
+  - { name: BasketballDrive_1920x1080_50, yuv: 'C:\Users\LQ Duy\Documents\Project\VideoCoding\Setup\Sequences\Class B\BasketballDrive_1920x1080_50\BasketballDrive_1920x1080_50.yuv', width: 1920, height: 1080, fps: 50, frames: 33 }
+  - { name: BQTerrace_1920x1080_60,       yuv: 'C:\Users\LQ Duy\Documents\Project\VideoCoding\Setup\Sequences\Class B\BQTerrace_1920x1080_60\BQTerrace_1920x1080_60.yuv',       width: 1920, height: 1080, fps: 60, frames: 33 }
+
+# ==== BASELINES ====
+baselines:
+  - { name: Baseline_Ref, args: [] }   # dùng nguyên base_cfg
+  - { name: Baseline_Min, args: [
+    "--SAO=0","--ALF=0","--CCALF=0",
+    "--DeblockingFilterDisable=1",
+    "--DepQuant=0","--RDOQ=0","--RDOQTS=0",
+    "--FastSearch=0","--ASR=0",
+    "--FEN=0","--FDM=0","--LCTUFast=0","--FastMrg=0"] }
+
+# ==== PERF ADD (bật từng tool từ Baseline_Min) ====
+perf_add:
+  - { name: ADD_SAO,       args: ["--SAO=1"] }
+  - { name: ADD_Deblock,   args: ["--DeblockingFilterDisable=0"] }
+  - { name: ADD_ALF,       args: ["--ALF=1","--CCALF=1"] }
+  - { name: ADD_RDOQ,      args: ["--DepQuant=1","--RDOQ=1","--RDOQTS=1"] }
+
+# ==== PERF ABLATE (tắt từng tool từ Baseline_Ref) ====
+perf_ablate:
+  - { name: ABLATE_SAO,      args: ["--SAO=0"] }
+  - { name: ABLATE_Deblock,  args: ["--DeblockingFilterDisable=1"] }
+  - { name: ABLATE_ALF,      args: ["--ALF=0","--CCALF=0"] }
+  - { name: ABLATE_RDOQ,     args: ["--DepQuant=0","--RDOQ=0","--RDOQTS=0"] }
+
+# ==== SPEED ADD (bật từ Baseline_Min) ====
+speed_add:
+  - { name: ADD_FastSearch, args: ["--FastSearch=1"] }
+  - { name: ADD_FDM,        args: ["--FDM=1"] }
+  - { name: ADD_FEN,        args: ["--FEN=1"] }
+  - { name: ADD_LCTUFast,   args: ["--LCTUFast=1"] }
+  - { name: ADD_FastMrg,    args: ["--FastMrg=1"] }
+
+# ==== SPEED ABLATE (tắt từ Baseline_Ref) ====
+speed_ablate:
+  - { name: ABLATE_FastSearch, args: ["--FastSearch=0","--ASR=0"] }
+  - { name: ABLATE_FDM,        args: ["--FDM=0"] }
+  - { name: ABLATE_FEN,        args: ["--FEN=0"] }
+  - { name: ABLATE_LCTUFast,   args: ["--LCTUFast=0"] }
+  - { name: ABLATE_FastMrg,    args: ["--FastMrg=0"] }

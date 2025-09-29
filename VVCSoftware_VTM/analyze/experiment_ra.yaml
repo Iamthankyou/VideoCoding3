@@ -1,0 +1,32 @@
+vtm_bin: 'C:/Users/LQ Duy/Documents/Project/VideoCoding/VVCSoftware_VTM/analyze/EncoderApp.exe'
+base_cfg: 'C:/Users/LQ Duy/Documents/Project/VideoCoding/VVCSoftware_VTM/cfg/encoder_randomaccess_vtm.cfg'
+sequence_cfg: ""         # để trống; tham số seq lấy từ YAML
+output_dir: ./runs_out_ra
+
+qps: [37, 32, 27, 22]
+fixed_args: []           # RA lấy từ base_cfg
+
+sequences:
+  # ===== Class D =====
+  - { name: BasketballPass_416x240_50, yuv: 'C:\Users\LQ Duy\Documents\Project\VideoCoding\Setup\Sequences\Class D\BasketballPass_416x240_50.yuv', width: 416, height: 240, fps: 50, frames: 33 }
+  - { name: BlowingBubbles_416x240_50, yuv: 'C:\Users\LQ Duy\Documents\Project\VideoCoding\Setup\Sequences\Class D\BlowingBubbles_416x240_50.yuv', width: 416, height: 240, fps: 50, frames: 33 }
+
+  # ===== Class C =====
+  - { name: BasketballDrill_832x480_50, yuv: 'C:\Users\LQ Duy\Documents\Project\VideoCoding\Setup\Sequences\Class C\BasketballDrill_832x480_50.yuv', width: 832, height: 480, fps: 50, frames: 33 }
+
+  # ===== Class B =====
+  - { name: BasketballDrive_1920x1080_50, yuv: 'C:\Users\LQ Duy\Documents\Project\VideoCoding\Setup\Sequences\Class B\BasketballDrive_1920x1080_50\BasketballDrive_1920x1080_50.yuv', width: 1920, height: 1080, fps: 50, frames: 33 }
+  - { name: BQTerrace_1920x1080_60,       yuv: 'C:\Users\LQ Duy\Documents\Project\VideoCoding\Setup\Sequences\Class B\BQTerrace_1920x1080_60\BQTerrace_1920x1080_60.yuv',       width: 1920, height: 1080, fps: 60, frames: 33 }
+
+perf_tools:
+  - { name: SAO_off,     args_off: ["--SAO=0"] }
+  - { name: Deblock_off, args_off: ["--DeblockingFilterDisable=1"] }
+  - { name: RDOQ_off,    args_off: ["--DepQuant=0","--RDOQ=0"] }      # <—
+  - { name: RDOQTS_off,  args_off: ["--DepQuant=0","--RDOQTS=0"] }    # <—
+
+speed_tools:
+  - { name: FastSearch,  args_on: ["--FastSearch=1"] }
+  - { name: FEN,         args_on: ["--FEN=1"] }
+  - { name: FDM,         args_on: ["--FDM=1"] }
+  - { name: LCTUFast,    args_on: ["--LCTUFast=1"] }
+  - { name: FastMrg,     args_on: ["--FastMrg=1"] }

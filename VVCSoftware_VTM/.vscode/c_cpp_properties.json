@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/source/**",
+                "${workspaceFolder}/source/Lib/**",
+                "${workspaceFolder}/source/App/**",
+                "${workspaceFolder}/source/Lib/CommonLib/**",
+                "${workspaceFolder}/source/Lib/EncoderLib/**",
+                "${workspaceFolder}/source/Lib/DecoderLib/**",
+                "${workspaceFolder}/source/Lib/CommonAnalyserLib/**",
+                "${workspaceFolder}/source/Lib/DecoderAnalyserLib/**",
+                "${workspaceFolder}/source/Lib/Utilities/**",
+                "${workspaceFolder}/source/Lib/libmd5/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "_WIN32",
+                "_WIN32_WINNT=0x0601",
+                "WIN32_LEAN_AND_MEAN",
+                "NOMINMAX",
+                "VTM_EXTENSIONS",
+                "VTM_ADDITIONAL_EXTENSIONS"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.33519/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64",
+            "configurationProvider": "ms-vscode.cmake-tools",
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,15 @@
+{
+  "anchor": "Baseline_Ref",
+  "qps_coarse": [
+    27,
+    32,
+    37
+  ],
+  "frames_coarse": 16,
+  "nobitstream": true,
+  "topk": 5,
+  "shortlist": {},
+  "detail_csv": "ablation_detailed_coarse.csv",
+  "summary_csv": "ablation_summary_coarse.csv",
+  "out_yaml": "experiment_shortlist.yaml"
+}

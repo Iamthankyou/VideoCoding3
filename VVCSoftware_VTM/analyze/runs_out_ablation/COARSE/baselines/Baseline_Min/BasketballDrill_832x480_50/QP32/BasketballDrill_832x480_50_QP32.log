@@ -1,0 +1,32 @@
+
+VVCSoftware: VTM Encoder Version 23.11 [Windows][VS 1944][64 bit] [SIMD=AVX2] 
+
+TOOL CFG: IBD:1 HAD:1 RDQ:0 RDQTS:0 LQP:0 SQP:0 ASR:0 MinSearchWindow:96 RestrictMESampling:0 FEN:0 ECU:0 FDM:0 ESD:0 TransformSkip:1 TransformSkipFast:1 TransformSkipLog2MaxSize:5 ChromaTS:1 BDPCM:0 Tiles: 1x1 Slices: 1 MCTS:0 SAO:0 ALF:0 CCALF:0 MaxNumALFAPS 8 AlfapsIDShift 0 ConstantJointCbCrSignFlagWPP:0 WPB:0 PME:2  WaveFrontSynchro:0 WaveFrontSubstreams:1 ScalingList:0 TMVPMode:1  DQ:0  SignBitHidingFlag:0 RecalQP:0 
+TOOL CFG: LFNST:1 MMVD:1 Affine:1 AffineType:1 AdaptBypassAffineMe:0 PROF:1 SbTMVP:1 DualITree:1 IMV:1 BIO:1 LMChroma:1 HorCollocatedChroma:1 VerCollocatedChroma:0 MTS:1(explicit intra) SBT:1 ISP:1 SMVD:1 CompositeLTReference:0 Bcw:1 BcwFast:1 LADF:0 CIIP:1 Geo:1 AllowDisFracMMVD:1 AffineAmvr:1 AffineAmvrEncOpt:1 AffineAmvp:1 DMVR:1 MmvdDisNum:6 JointCbCr:1 ACT:0 PLT:0 IBC:0 HashME:0 WrapAround:0 VirtualBoundariesEnabledFlag:0 VirtualBoundariesPresentInSPSFlag:1 vertical virtual boundaries:[ ] horizontal virtual boundaries:[ ] Reshape:1 (Signal:SDR Opt:0 CSoffset:6) MRL:1 MIP:1 EncDbOpt:1 AlfLambdaOpt:0 
+FAST TOOL CFG: LCTUFast:0 FastMrg:0 MaxMergeRdCandNumTotal:7 MergeRdCandQuotaRegular:4 MergeRdCandQuotaRegularSmallBlk:4 MergeRdCandQuotaSubBlk:2 MergeRdCandQuotaCiip:1 MergeRdCandQuotaGpm:8 PBIntraFast:1 IMV4PelFast:1 MTSMaxCand: 4(intra) 4(inter) ISPFast:0 FastLFNST:0 AMaxBT:1 E0023FastEnc:1 ContentBasedFastQtbt:0 UseNonLinearAlfLuma:1 UseNonLinearAlfChroma:1 MaxNumAlfAlternativesChroma:8 FastMIP:0 TTFastSkip:31 TTFastSkipThr:1.075 FastLocalDualTree:1 RPR:0 TemporalFilter:4/4 SEI CTI:0 BIM:0 SEI FGC:0 SEI processing Order:0 DPF:0 
+
+
+ started @ Wed Sep 24 03:26:58 2025
+POC    0 LId:  0 TId: 0 ( IDR_N_LP, I-SLICE, QP 29 )     315624 bits [Y 36.4154 dB    U 36.5883 dB    V 36.9880 dB] [ET    64 ] [L0] [L1]
+POC    8 LId:  0 TId: 2 ( STSA, B-SLICE, QP 35 )     102920 bits [Y 33.8033 dB    U 33.1776 dB    V 33.4515 dB] [ET  3882 ] [L0 0] [L1 0c]
+POC    4 LId:  0 TId: 3 ( TRAIL, B-SLICE, QP 38 )      74808 bits [Y 33.0499 dB    U 32.7781 dB    V 33.1120 dB] [ET  7011 ] [L0 0 8] [L1 8c 0]
+POC    2 LId:  0 TId: 4 ( TRAIL, B-SLICE, QP 40 )      40712 bits [Y 32.7867 dB    U 32.9588 dB    V 33.5858 dB] [ET  8112 ] [L0 0 4 8] [L1 4c 8 0]
+POC    1 LId:  0 TId: 5 ( TRAIL, B-SLICE, QP 41 )      29064 bits [Y 32.7350 dB    U 32.8823 dB    V 33.4106 dB] [ET  6127 ] [L0 0] [L1 2c 4]
+POC    3 LId:  0 TId: 5 ( TRAIL, B-SLICE, QP 41 )      32920 bits [Y 32.2763 dB    U 32.4003 dB    V 32.6728 dB] [ET  8673 ] [L0 2c 0] [L1 4 8]
+POC    6 LId:  0 TId: 4 ( TRAIL, B-SLICE, QP 40 )      56200 bits [Y 31.8410 dB    U 32.1823 dB    V 32.4984 dB] [ET 11265 ] [L0 4c 2 0] [L1 8 4 2]
+POC    5 LId:  0 TId: 5 ( TRAIL, B-SLICE, QP 41 )      39176 bits [Y 31.6644 dB    U 31.8106 dB    V 32.0898 dB] [ET 10135 ] [L0 4 0] [L1 6c 8]
+POC    7 LId:  0 TId: 5 ( TRAIL, B-SLICE, QP 41 )      41432 bits [Y 31.5501 dB    U 31.9557 dB    V 31.9869 dB] [ET  6804 ] [L0 6c 4] [L1 8 6]
+POC   12 LId:  0 TId: 3 ( TRAIL, B-SLICE, QP 38 )      71064 bits [Y 32.7871 dB    U 32.6905 dB    V 33.1333 dB] [ET  9176 ] [L0 8 4 0] [L1 8c 4]
+POC   10 LId:  0 TId: 4 ( TRAIL, B-SLICE, QP 40 )      48336 bits [Y 32.3161 dB    U 32.4193 dB    V 32.9606 dB] [ET 12816 ] [L0 8 6 4 0] [L1 12c 8 6]
+POC    9 LId:  0 TId: 5 ( TRAIL, B-SLICE, QP 41 )      38392 bits [Y 31.9890 dB    U 32.3288 dB    V 32.1831 dB] [ET  8179 ] [L0 8 4] [L1 10c 12]
+POC   11 LId:  0 TId: 5 ( TRAIL, B-SLICE, QP 41 )      39376 bits [Y 31.7710 dB    U 32.1310 dB    V 32.3315 dB] [ET  5668 ] [L0 10c 8] [L1 12 10]
+POC   14 LId:  0 TId: 4 ( TRAIL, B-SLICE, QP 40 )      61048 bits [Y 31.7801 dB    U 32.4264 dB    V 32.5494 dB] [ET 10224 ] [L0 12 10 8 0] [L1 12c 10]
+POC   13 LId:  0 TId: 5 ( TRAIL, B-SLICE, QP 41 )      40840 bits [Y 31.4253 dB    U 31.7640 dB    V 32.0295 dB] [ET  5598 ] [L0 12 8] [L1 14c 12]
+POC   15 LId:  0 TId: 5 ( TRAIL, B-SLICE, QP 41 )      48464 bits [Y 31.3534 dB    U 31.7289 dB    V 32.0287 dB] [ET  4271 ] [L0 14 12] [L1 14c 12]
+
+LayerId  0
+	Total Frames |  Bitrate      Y-PSNR   U-PSNR   V-PSNR   YUV-PSNR 
+	16           a  3376.1750    32.4715  32.6389  32.9383  32.4397  
+
+ finished @ Thu Sep 25 12:13:42 2025
+ Total Time:   118003.442 sec. [user]   118003.441 sec. [elapsed]

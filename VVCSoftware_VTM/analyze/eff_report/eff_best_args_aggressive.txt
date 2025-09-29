@@ -1,0 +1,7 @@
+--ALF=1
+--CCALF=1
+--DeblockingFilterDisable=0
+--DepQuant=1
+--RDOQ=1
+--RDOQTS=1
+--SAO=1

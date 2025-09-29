@@ -1,0 +1,11 @@
+﻿  Building Custom Rule C:/Users/LQ Duy/Documents/Project/VVCSoftware_VTM/source/Lib/DecoderAnalyserLib/CMakeLists.txt
+  AnnexBread.cpp
+  BinDecoder.cpp
+  CABACReader.cpp
+  DecCu.cpp
+  DecLib.cpp
+  DecSlice.cpp
+  NALread.cpp
+  SEIread.cpp
+  VLCReader.cpp
+  DecoderAnalyserLib.vcxproj -> C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\lib\vs17\msvc-19.44\x86_64\release\DecoderAnalyserLib.lib

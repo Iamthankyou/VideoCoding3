@@ -1,0 +1,24 @@
+vtm_bin: 'C:/Users/LQ Duy/Documents/Project/VideoCoding/VVCSoftware_VTM/analyze/EncoderApp.exe'
+base_cfg: 'C:/Users/LQ Duy/Documents/Project/VideoCoding/VVCSoftware_VTM/cfg/encoder_randomaccess_vtm.cfg'
+sequence_cfg: ""         # để trống; tham số seq lấy từ YAML
+output_dir: ./runs_out_ra
+
+qps: [32]
+fixed_args: []           # RA lấy từ base_cfg
+
+sequences:
+  # ===== Class D =====
+  - { name: BasketballPass_416x240_50, yuv: 'C:\Users\LQ Duy\Documents\Project\VideoCoding\Setup\Sequences\Class D\BasketballPass_416x240_50.yuv', width: 416, height: 240, fps: 50, frames: 3 }
+
+perf_tools:
+  - { name: SAO_off,     args_off: ["--SAO=0"] }
+  - { name: Deblock_off, args_off: ["--DeblockingFilterDisable=1"] }
+  - { name: RDOQ_off,    args_off: ["--DepQuant=0","--RDOQ=0"] }      # <—
+  - { name: RDOQTS_off,  args_off: ["--DepQuant=0","--RDOQTS=0"] }    # <—
+
+speed_tools:
+  - { name: FastSearch,  args_on: ["--FastSearch=1"] }
+  - { name: FEN,         args_on: ["--FEN=1"] }
+  - { name: FDM,         args_on: ["--FDM=1"] }
+  - { name: LCTUFast,    args_on: ["--LCTUFast=1"] }
+  - { name: FastMrg,     args_on: ["--FastMrg=1"] }

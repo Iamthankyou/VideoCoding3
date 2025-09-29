@@ -1,0 +1,9 @@
+C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\source\Lib\DecoderLib\AnnexBread.cpp;C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\build\source\Lib\DecoderAnalyserLib\DecoderAnalyserLib.dir\Release\AnnexBread.obj
+C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\source\Lib\DecoderLib\BinDecoder.cpp;C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\build\source\Lib\DecoderAnalyserLib\DecoderAnalyserLib.dir\Release\BinDecoder.obj
+C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\source\Lib\DecoderLib\CABACReader.cpp;C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\build\source\Lib\DecoderAnalyserLib\DecoderAnalyserLib.dir\Release\CABACReader.obj
+C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\source\Lib\DecoderLib\DecCu.cpp;C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\build\source\Lib\DecoderAnalyserLib\DecoderAnalyserLib.dir\Release\DecCu.obj
+C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\source\Lib\DecoderLib\DecLib.cpp;C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\build\source\Lib\DecoderAnalyserLib\DecoderAnalyserLib.dir\Release\DecLib.obj
+C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\source\Lib\DecoderLib\DecSlice.cpp;C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\build\source\Lib\DecoderAnalyserLib\DecoderAnalyserLib.dir\Release\DecSlice.obj
+C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\source\Lib\DecoderLib\NALread.cpp;C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\build\source\Lib\DecoderAnalyserLib\DecoderAnalyserLib.dir\Release\NALread.obj
+C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\source\Lib\DecoderLib\SEIread.cpp;C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\build\source\Lib\DecoderAnalyserLib\DecoderAnalyserLib.dir\Release\SEIread.obj
+C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\source\Lib\DecoderLib\VLCReader.cpp;C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\build\source\Lib\DecoderAnalyserLib\DecoderAnalyserLib.dir\Release\VLCReader.obj

@@ -1,0 +1,77 @@
+# experiment_ablation.template.yaml
+# Template for VTM ablation experiments (conforming toggles only).
+globals:
+  vtm_bin: "./EncoderApp"            # path to EncoderApp binary
+  out_dir: "./out_ablation"          # where to write logs/bitstreams
+  qps: [22, 27, 32, 37]              # JVET CTC QPs
+  profiles:
+    - name: RA
+      cfg: "cfg/encoder_randomaccess_vtm.cfg"
+    - name: AI
+      cfg: "cfg/encoder_intra_vtm.cfg"
+    - name: LDB
+      cfg: "cfg/encoder_lowdelay_vtm.cfg"
+
+sequences:
+  - name: BQTerrace_1080p
+    path: "/data/BQTerrace_1920x1080_60.yuv"
+    w: 1920
+    h: 1080
+    fr: 60
+    frames: 96
+
+  - name: BasketballDrive_1080p
+    path: "/data/BasketballDrive_1920x1080_50.yuv"
+    w: 1920
+    h: 1080
+    fr: 50
+    frames: 96
+
+# Each experiment contains encoder parameter overrides.
+# Keys must match the parameter names used in your VTM cfgs (case-sensitive).
+# Example keys you can safely use (typical in VTM cfgs):
+#  SAO, ALF, LMCSEnable, LFNST, MTS, ISP, MIP, CIIP, Geo, AffineAmvr, AllowDisFracMMVD,
+#  Bcw, BcwFast, Bdof, Dmvr, MMVD, Affine, IBC
+experiments:
+  - name: baseline
+    override: {}
+
+  - name: minus_ALF
+    override: { ALF: 0 }
+
+  - name: minus_SAO
+    override: { SAO: 0 }
+
+  - name: minus_LMCS
+    override: { LMCSEnable: 0 }
+
+  - name: minus_LFNST
+    override: { LFNST: 0 }
+
+  - name: minus_MTS
+    override: { MTS: 0 }
+
+  - name: minus_ISP
+    override: { ISP: 0 }
+
+  - name: minus_MIP
+    override: { MIP: 0 }
+
+  - name: minus_BDOF_DMVR
+    override: { Bdof: 0, Dmvr: 0 }
+
+  - name: minus_CIIP_Geo
+    override: { CIIP: 0, Geo: 0 }
+
+  - name: minus_BCW
+    override: { Bcw: 0 }
+
+  - name: minus_Affine_AMVR
+    override: { Affine: 0, AffineAmvr: 0 }
+
+  - name: screen_off
+    override: { IBC: 0 }  # screen content coding off
+
+  - name: inter_refine_pack_off
+    override: { Bdof: 0, Dmvr: 0, Bcw: 0, CIIP: 0, Geo: 0 }
+

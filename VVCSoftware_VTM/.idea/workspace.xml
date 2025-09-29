@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3a2ca2a-a4a7-49b3-b9f1-257fb61cb066" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BQTerrace_1920x1080_60_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BQTerrace_1920x1080_60_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BQTerrace_1920x1080_60_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BQTerrace_1920x1080_60_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BQTerrace_1920x1080_60_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BQTerrace_1920x1080_60_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BQTerrace_1920x1080_60_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BQTerrace_1920x1080_60_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballDrill_832x480_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballDrill_832x480_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballDrill_832x480_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballDrill_832x480_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballDrill_832x480_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballDrill_832x480_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballDrill_832x480_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballDrill_832x480_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballDrive_1920x1080_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballDrive_1920x1080_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballDrive_1920x1080_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballDrive_1920x1080_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballDrive_1920x1080_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballDrive_1920x1080_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballDrive_1920x1080_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballDrive_1920x1080_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballPass_416x240_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballPass_416x240_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballPass_416x240_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballPass_416x240_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballPass_416x240_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballPass_416x240_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballPass_416x240_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BasketballPass_416x240_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BlowingBubbles_416x240_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BlowingBubbles_416x240_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BlowingBubbles_416x240_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BlowingBubbles_416x240_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BlowingBubbles_416x240_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BlowingBubbles_416x240_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BlowingBubbles_416x240_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Baseline_None_BlowingBubbles_416x240_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BQTerrace_1920x1080_60_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BQTerrace_1920x1080_60_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BQTerrace_1920x1080_60_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BQTerrace_1920x1080_60_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BQTerrace_1920x1080_60_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BQTerrace_1920x1080_60_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BQTerrace_1920x1080_60_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BQTerrace_1920x1080_60_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballDrill_832x480_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballDrill_832x480_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballDrill_832x480_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballDrill_832x480_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballDrill_832x480_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballDrill_832x480_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballDrill_832x480_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballDrill_832x480_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballDrive_1920x1080_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballDrive_1920x1080_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballDrive_1920x1080_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballDrive_1920x1080_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballDrive_1920x1080_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballDrive_1920x1080_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballDrive_1920x1080_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballDrive_1920x1080_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballPass_416x240_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballPass_416x240_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballPass_416x240_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballPass_416x240_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballPass_416x240_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballPass_416x240_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballPass_416x240_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BasketballPass_416x240_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BlowingBubbles_416x240_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BlowingBubbles_416x240_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BlowingBubbles_416x240_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BlowingBubbles_416x240_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BlowingBubbles_416x240_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BlowingBubbles_416x240_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BlowingBubbles_416x240_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_Deblock_off_BlowingBubbles_416x240_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BQTerrace_1920x1080_60_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BQTerrace_1920x1080_60_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BQTerrace_1920x1080_60_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BQTerrace_1920x1080_60_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BQTerrace_1920x1080_60_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BQTerrace_1920x1080_60_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BQTerrace_1920x1080_60_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BQTerrace_1920x1080_60_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballDrill_832x480_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballDrill_832x480_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballDrill_832x480_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballDrill_832x480_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballDrill_832x480_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballDrill_832x480_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballDrill_832x480_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballDrill_832x480_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballDrive_1920x1080_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballDrive_1920x1080_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballDrive_1920x1080_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballDrive_1920x1080_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballDrive_1920x1080_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballDrive_1920x1080_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballDrive_1920x1080_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballDrive_1920x1080_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballPass_416x240_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballPass_416x240_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballPass_416x240_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballPass_416x240_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballPass_416x240_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballPass_416x240_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballPass_416x240_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BasketballPass_416x240_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BlowingBubbles_416x240_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BlowingBubbles_416x240_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BlowingBubbles_416x240_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BlowingBubbles_416x240_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BlowingBubbles_416x240_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BlowingBubbles_416x240_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BlowingBubbles_416x240_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQTS_off_BlowingBubbles_416x240_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BQTerrace_1920x1080_60_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BQTerrace_1920x1080_60_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BQTerrace_1920x1080_60_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BQTerrace_1920x1080_60_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BQTerrace_1920x1080_60_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BQTerrace_1920x1080_60_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BQTerrace_1920x1080_60_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BQTerrace_1920x1080_60_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballDrill_832x480_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballDrill_832x480_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballDrill_832x480_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballDrill_832x480_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballDrill_832x480_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballDrill_832x480_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballDrill_832x480_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballDrill_832x480_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballDrive_1920x1080_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballDrive_1920x1080_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballDrive_1920x1080_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballDrive_1920x1080_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballDrive_1920x1080_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballDrive_1920x1080_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballDrive_1920x1080_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballDrive_1920x1080_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballPass_416x240_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballPass_416x240_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballPass_416x240_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballPass_416x240_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballPass_416x240_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballPass_416x240_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballPass_416x240_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BasketballPass_416x240_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BlowingBubbles_416x240_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BlowingBubbles_416x240_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BlowingBubbles_416x240_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BlowingBubbles_416x240_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BlowingBubbles_416x240_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BlowingBubbles_416x240_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BlowingBubbles_416x240_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_RDOQ_off_BlowingBubbles_416x240_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BQTerrace_1920x1080_60_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BQTerrace_1920x1080_60_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BQTerrace_1920x1080_60_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BQTerrace_1920x1080_60_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BQTerrace_1920x1080_60_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BQTerrace_1920x1080_60_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BQTerrace_1920x1080_60_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BQTerrace_1920x1080_60_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballDrill_832x480_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballDrill_832x480_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballDrill_832x480_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballDrill_832x480_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballDrill_832x480_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballDrill_832x480_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballDrill_832x480_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballDrill_832x480_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballDrive_1920x1080_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballDrive_1920x1080_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballDrive_1920x1080_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballDrive_1920x1080_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballDrive_1920x1080_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballDrive_1920x1080_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballDrive_1920x1080_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballDrive_1920x1080_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballPass_416x240_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballPass_416x240_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballPass_416x240_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballPass_416x240_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballPass_416x240_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballPass_416x240_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballPass_416x240_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BasketballPass_416x240_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BlowingBubbles_416x240_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BlowingBubbles_416x240_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BlowingBubbles_416x240_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BlowingBubbles_416x240_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BlowingBubbles_416x240_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BlowingBubbles_416x240_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BlowingBubbles_416x240_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Performance_SAO_off_BlowingBubbles_416x240_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BQTerrace_1920x1080_60_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BQTerrace_1920x1080_60_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BQTerrace_1920x1080_60_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BQTerrace_1920x1080_60_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BQTerrace_1920x1080_60_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BQTerrace_1920x1080_60_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BQTerrace_1920x1080_60_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BQTerrace_1920x1080_60_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballDrill_832x480_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballDrill_832x480_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballDrill_832x480_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballDrill_832x480_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballDrill_832x480_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballDrill_832x480_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballDrill_832x480_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballDrill_832x480_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballDrive_1920x1080_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballDrive_1920x1080_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballDrive_1920x1080_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballDrive_1920x1080_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballDrive_1920x1080_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballDrive_1920x1080_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballDrive_1920x1080_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballDrive_1920x1080_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballPass_416x240_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballPass_416x240_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballPass_416x240_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballPass_416x240_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballPass_416x240_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballPass_416x240_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballPass_416x240_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BasketballPass_416x240_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BlowingBubbles_416x240_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BlowingBubbles_416x240_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BlowingBubbles_416x240_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BlowingBubbles_416x240_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BlowingBubbles_416x240_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BlowingBubbles_416x240_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BlowingBubbles_416x240_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FDM_BlowingBubbles_416x240_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BQTerrace_1920x1080_60_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BQTerrace_1920x1080_60_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BQTerrace_1920x1080_60_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BQTerrace_1920x1080_60_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BQTerrace_1920x1080_60_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BQTerrace_1920x1080_60_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BQTerrace_1920x1080_60_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BQTerrace_1920x1080_60_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballDrill_832x480_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballDrill_832x480_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballDrill_832x480_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballDrill_832x480_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballDrill_832x480_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballDrill_832x480_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballDrill_832x480_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballDrill_832x480_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballDrive_1920x1080_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballDrive_1920x1080_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballDrive_1920x1080_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballDrive_1920x1080_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballDrive_1920x1080_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballDrive_1920x1080_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballDrive_1920x1080_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballDrive_1920x1080_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballPass_416x240_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballPass_416x240_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballPass_416x240_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballPass_416x240_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballPass_416x240_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballPass_416x240_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballPass_416x240_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BasketballPass_416x240_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BlowingBubbles_416x240_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BlowingBubbles_416x240_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BlowingBubbles_416x240_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BlowingBubbles_416x240_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BlowingBubbles_416x240_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BlowingBubbles_416x240_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BlowingBubbles_416x240_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FEN_BlowingBubbles_416x240_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BQTerrace_1920x1080_60_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BQTerrace_1920x1080_60_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BQTerrace_1920x1080_60_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BQTerrace_1920x1080_60_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BQTerrace_1920x1080_60_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BQTerrace_1920x1080_60_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BQTerrace_1920x1080_60_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BQTerrace_1920x1080_60_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballDrill_832x480_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballDrill_832x480_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballDrill_832x480_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballDrill_832x480_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballDrill_832x480_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballDrill_832x480_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballDrill_832x480_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballDrill_832x480_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballDrive_1920x1080_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballDrive_1920x1080_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballDrive_1920x1080_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballDrive_1920x1080_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballDrive_1920x1080_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballDrive_1920x1080_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballDrive_1920x1080_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballDrive_1920x1080_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballPass_416x240_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballPass_416x240_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballPass_416x240_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballPass_416x240_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballPass_416x240_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballPass_416x240_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballPass_416x240_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BasketballPass_416x240_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BlowingBubbles_416x240_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BlowingBubbles_416x240_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BlowingBubbles_416x240_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BlowingBubbles_416x240_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BlowingBubbles_416x240_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BlowingBubbles_416x240_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BlowingBubbles_416x240_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastMrg_BlowingBubbles_416x240_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BQTerrace_1920x1080_60_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BQTerrace_1920x1080_60_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BQTerrace_1920x1080_60_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BQTerrace_1920x1080_60_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BQTerrace_1920x1080_60_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BQTerrace_1920x1080_60_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BQTerrace_1920x1080_60_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BQTerrace_1920x1080_60_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballDrill_832x480_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballDrill_832x480_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballDrill_832x480_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballDrill_832x480_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballDrill_832x480_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballDrill_832x480_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballDrill_832x480_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballDrill_832x480_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballDrive_1920x1080_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballDrive_1920x1080_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballDrive_1920x1080_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballDrive_1920x1080_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballDrive_1920x1080_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballDrive_1920x1080_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballDrive_1920x1080_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballDrive_1920x1080_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballPass_416x240_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballPass_416x240_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballPass_416x240_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballPass_416x240_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballPass_416x240_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballPass_416x240_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballPass_416x240_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BasketballPass_416x240_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BlowingBubbles_416x240_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BlowingBubbles_416x240_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BlowingBubbles_416x240_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BlowingBubbles_416x240_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BlowingBubbles_416x240_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BlowingBubbles_416x240_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BlowingBubbles_416x240_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_FastSearch_BlowingBubbles_416x240_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BQTerrace_1920x1080_60_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BQTerrace_1920x1080_60_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BQTerrace_1920x1080_60_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BQTerrace_1920x1080_60_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BQTerrace_1920x1080_60_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BQTerrace_1920x1080_60_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BQTerrace_1920x1080_60_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BQTerrace_1920x1080_60_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballDrill_832x480_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballDrill_832x480_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballDrill_832x480_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballDrill_832x480_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballDrill_832x480_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballDrill_832x480_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballDrill_832x480_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballDrill_832x480_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballDrive_1920x1080_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballDrive_1920x1080_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballDrive_1920x1080_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballDrive_1920x1080_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballDrive_1920x1080_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballDrive_1920x1080_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballDrive_1920x1080_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballDrive_1920x1080_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballPass_416x240_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballPass_416x240_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballPass_416x240_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballPass_416x240_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballPass_416x240_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballPass_416x240_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballPass_416x240_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BasketballPass_416x240_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BlowingBubbles_416x240_50_QP22.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BlowingBubbles_416x240_50_QP22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BlowingBubbles_416x240_50_QP27.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BlowingBubbles_416x240_50_QP27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BlowingBubbles_416x240_50_QP32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BlowingBubbles_416x240_50_QP32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BlowingBubbles_416x240_50_QP37.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/Speed_LCTUFast_BlowingBubbles_416x240_50_QP37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/charts.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/runs_out_ra/results.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/.vs/NextSoftware/CopilotIndices/17.14.794.21998/CodeChunks.db" beforeDir="false" afterPath="$PROJECT_DIR$/build/.vs/NextSoftware/CopilotIndices/17.14.794.21998/CodeChunks.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/.vs/NextSoftware/CopilotIndices/17.14.794.21998/SemanticSymbols.db" beforeDir="false" afterPath="$PROJECT_DIR$/build/.vs/NextSoftware/CopilotIndices/17.14.794.21998/SemanticSymbols.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/.vs/NextSoftware/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/build/.vs/NextSoftware/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/.vs/NextSoftware/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/build/.vs/NextSoftware/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/.vs/NextSoftware/v17/Solution.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/build/.vs/NextSoftware/v17/Solution.VC.db" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="319MT89pn8ZjravPCDeyUgDeOmI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/LQ Duy/Documents/Project/VideoCoding/VVCSoftware_VTM",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.439" />
+        <option value="bundled-python-sdk-b3ae9b5d7125-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.439" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3a2ca2a-a4a7-49b3-b9f1-257fb61cb066" name="Changes" comment="" />
+      <created>1754931841771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754931841771</updated>
+      <workItem from="1754931850553" duration="21000" />
+      <workItem from="1755502212490" duration="116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

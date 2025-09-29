@@ -1,0 +1,58 @@
+vtm_bin: C:/Users/LQ Duy/Documents/Project/VideoCoding/VVCSoftware_VTM/analyze/EncoderApp.exe
+base_cfg: C:/Users/LQ Duy/Documents/Project/VideoCoding/VVCSoftware_VTM/cfg/encoder_randomaccess_vtm.cfg
+output_dir: ./runs_out_ablation
+qps:
+- 37
+- 32
+- 27
+- 22
+fixed_args: []
+sequences:
+- name: BasketballPass_416x240_50
+  yuv: C:\Users\LQ Duy\Documents\Project\VideoCoding\Setup\Sequences\Class D\BasketballPass_416x240_50.yuv
+  width: 416
+  height: 240
+  fps: 50
+  frames: 33
+- name: BlowingBubbles_416x240_50
+  yuv: C:\Users\LQ Duy\Documents\Project\VideoCoding\Setup\Sequences\Class D\BlowingBubbles_416x240_50.yuv
+  width: 416
+  height: 240
+  fps: 50
+  frames: 33
+- name: BasketballDrill_832x480_50
+  yuv: C:\Users\LQ Duy\Documents\Project\VideoCoding\Setup\Sequences\Class C\BasketballDrill_832x480_50.yuv
+  width: 832
+  height: 480
+  fps: 50
+  frames: 33
+- name: BasketballDrive_1920x1080_50
+  yuv: C:\Users\LQ Duy\Documents\Project\VideoCoding\Setup\Sequences\Class B\BasketballDrive_1920x1080_50\BasketballDrive_1920x1080_50.yuv
+  width: 1920
+  height: 1080
+  fps: 50
+  frames: 33
+- name: BQTerrace_1920x1080_60
+  yuv: C:\Users\LQ Duy\Documents\Project\VideoCoding\Setup\Sequences\Class B\BQTerrace_1920x1080_60\BQTerrace_1920x1080_60.yuv
+  width: 1920
+  height: 1080
+  fps: 60
+  frames: 33
+baselines:
+- name: Baseline_Ref
+  args: []
+- name: Baseline_Min
+  args:
+  - --SAO=0
+  - --ALF=0
+  - --CCALF=0
+  - --DeblockingFilterDisable=1
+  - --DepQuant=0
+  - --RDOQ=0
+  - --RDOQTS=0
+  - --FastSearch=0
+  - --ASR=0
+  - --FEN=0
+  - --FDM=0
+  - --LCTUFast=0
+  - --FastMrg=0
